@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/robin/Documents/smart-office/platforms/android/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/robin/Documents/smart-office/platforms/android/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/robin/Documents/smart-office/platforms/android/app/build/intermediates/res/merged/debug/menu/main_scan.xml",
+        "source": "/home/robin/Documents/smart-office/platforms/android/app/src/main/res/menu/main_scan.xml"
+    }
+]
