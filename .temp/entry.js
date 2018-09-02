@@ -1,7 +1,9 @@
 import Vue from 'vue'
 import weex from 'weex-vue-render'
 /* global Vue */
-
+import vue from 'vue'
+import Router from 'vue-router'
+import Index from '@/components/Index.vue'
 weex.init(Vue)
 /* weex initialized here, please do not move this line */
 const router = require('./router')

@@ -9,7 +9,7 @@ module.exports = {
     browser: true
   },
   globals: {
-    weex: true
+    weex: false
   },
   extends: [
     // https://github.com/vuejs/eslint-plugin-vue#priority-a-essential-error-prevention
@@ -24,7 +24,7 @@ module.exports = {
   ],
   // add your custom rules here
   rules: {
-    'vue/no-parsing-error':  [2, {
+    'vue/no-parsing-error':  [0, {
       "x-invalid-end-tag": false
     }],
     // allow async-await

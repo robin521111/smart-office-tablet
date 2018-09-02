@@ -8,12 +8,12 @@
         "source": "/home/robin/Documents/smart-office/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_tab_indicator_material.xml"
     },
     {
-        "merged": "/home/robin/Documents/smart-office/platforms/android/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
-        "source": "/home/robin/Documents/smart-office/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
-    },
-    {
         "merged": "/home/robin/Documents/smart-office/platforms/android/app/build/intermediates/res/merged/debug/drawable/error.png",
         "source": "/home/robin/Documents/smart-office/platforms/android/app/build/intermediates/exploded-aar/com.taobao.android/weex_sdk/0.16.0/res/drawable/error.png"
+    },
+    {
+        "merged": "/home/robin/Documents/smart-office/platforms/android/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/home/robin/Documents/smart-office/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
         "merged": "/home/robin/Documents/smart-office/platforms/android/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
@@ -144,12 +144,12 @@
         "source": "/home/robin/Documents/smart-office/platforms/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/res/drawable/notification_bg.xml"
     },
     {
-        "merged": "/home/robin/Documents/smart-office/platforms/android/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
-        "source": "/home/robin/Documents/smart-office/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_seekbar_tick_mark_material.xml"
-    },
-    {
         "merged": "/home/robin/Documents/smart-office/platforms/android/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
         "source": "/home/robin/Documents/smart-office/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/home/robin/Documents/smart-office/platforms/android/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/home/robin/Documents/smart-office/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_seekbar_tick_mark_material.xml"
     },
     {
         "merged": "/home/robin/Documents/smart-office/platforms/android/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
